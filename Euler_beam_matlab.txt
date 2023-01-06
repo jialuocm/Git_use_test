@@ -1,3 +1,5 @@
 Matlab FEM code basised on Hitermiter basis;
 Global idea;
 condider essential BC and Natural BC.
+
+calculate the error convergence rate.
