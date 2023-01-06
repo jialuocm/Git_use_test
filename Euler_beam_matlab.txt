@@ -10,4 +10,6 @@ Method 1: BC essential BC node did not to be assembled into K matrix.
 
 Method 2: BC node will be assemble into K matrix.
 
-Tasted3 : Modified variable name
+Task3 : Modified variable name
+
+Task4 : Modified Hermit basis
