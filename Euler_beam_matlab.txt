@@ -1,7 +1,9 @@
-Matlab FEM code basised on Hitermiter basis;
+Matlab FEM code basised on Hitermiter basis; Idea of Method of prescribed essential BC
 Global idea;
 condider essential BC and Natural BC.
 
 Calculate the error convergence rate.
 
 Modified data structure of coordinate of physical geometic domain;
+
+Method 1: BC essential BC node did not to be assembled into K matrix.
